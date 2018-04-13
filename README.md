@@ -1,24 +1,17 @@
-# README
+# Rails Todo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a personal learning project to understand how rails works
 
-Things you may want to cover:
+Things to Learn:
 
-* Ruby version
+* Gems and Initial setup 
 
-* System dependencies
+* MVC and how it works in Rails
 
-* Configuration
+* Where to locate important files i.e. routes.rb
 
-* Database creation
+* Database creation and migration
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* CRUD functionality
